@@ -1,0 +1,10 @@
+# https://raw.githubusercontent.com/plotly/datasets/master/diabetes.csv
+# This is a diabetes dataset
+# Input different elements/values then based on them then we predict if user is diabetic or not after training the model
+
+
+# Have requirements.txt file that will store all our imports the load this file using pip install-r fileName.txt (pip install -r requirements.txt- installs all the packages from requirements file)
+# Train and save the ML model: pandas(data handling), scikit-learn9 for ML model) and joblib(saving the model)
+# create a python file to train the model
+# Create web app on streamlit
+# Then you can make prediction on values if user is diabetic or not
