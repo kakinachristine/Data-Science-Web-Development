@@ -8,3 +8,5 @@
 # create a python file to train the model
 # Create web app on streamlit
 # Then you can make prediction on values if user is diabetic or not
+
+# To run my app in python is "python appName.py"
